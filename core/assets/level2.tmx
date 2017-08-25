@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="right-down" width="290" height="13" tilewidth="16" tileheight="16" nextobjectid="11">
+ <tileset firstgid="1" name="level2.tmx#tileset_gutter" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="924" columns="33">
+  <image source="tileset_gutter.png" width="594" height="504"/>
+ </tileset>
+ <layer name="Background Color" width="290" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1LEJwDAQwMDHC3n/2dJ4hkBAOFxxC6jQnpkNXOVZ/1L3BN6rv+FDQP0NHwLqb/gQUH/Dh4D6Gz4E1N/wIaD+hg8B9Td8CKi/4UNA/Q0fAupv+BBQf+NrBwte1Fs=
+  </data>
+ </layer>
+ <layer name="Graphic Layer" width="290" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztmM1OwkAQgKdwUgGjnrj2qIKJmphwNZz0wEP0qI+Dvgn6eA6xjctk2v3flnW+ZFJ+WnYYZj42BRAEQeiXtYSEQ8RGt/51AXBThM/R9do1eWwT++/iy3YE8FHH58jtM+YOeWw912xI0VN9QXtK16+pZ01wRzx0yA498FXHt6MTVnUeNm7Zea7ZkPO8iYfyRTwUnsZDodxiQ47zZtNL9DzuOvHS8BAPhWfVYx45zpd4KH+G7CHbtWJ7qKxDh3ionbVypD3WlnvfHgo5F8IhZzgrE4ypeMiIEsRDXWwMz+Ock8JD3D7blP/uodBuULnFWVlgLMVDWkoI46GJErEwrd+cCR0VObrA9ZWu19r60aRfu67TfX4fnGDvnCb8H6vA7/c0wfb+ytA8ZJtnDA9RB/l4aIoxwzgPlBtHjDmi/unyUcyeHoInQtHmm+Y+iS0utang+Dz0grV5VepDn9O65rAf4hzEeeiSrMt5aL8HWigRa08Uck51/unyUIzezslDbb55w9femdd1+yTb2lRwnB6i9aHPaV1Teki91+WD+lu3OYh66ALPv8e4UtbmPDSG373Qsj6Olfeox3wIMaem/kntoZyw9ZBun2Qzb9RB4iE+Z1vUe10+NN+hy0GqhxoHPWA8Ki7i9kyzOu7gz0NPBe8xH54lvONY6snl6Zp3FymuT1krE1KvVww0XPkBeyLsRw==
+  </data>
+ </layer>
+ <objectgroup name="Ground">
+  <object id="3" x="0" y="192" width="1296" height="16"/>
+  <object id="4" x="1344" y="192" width="624" height="16"/>
+  <object id="5" x="2016" y="192" width="32" height="16"/>
+  <object id="6" x="2080" y="192" width="192" height="16"/>
+  <object id="7" x="2384" y="192" width="144" height="16"/>
+  <object id="8" x="2640" y="192" width="528" height="16"/>
+  <object id="9" x="3360" y="192" width="256" height="16"/>
+  <object id="10" x="3808" y="192" width="608" height="16"/>
+ </objectgroup>
+</map>

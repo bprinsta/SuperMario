@@ -1,0 +1,20 @@
+
+Mario&Enemies.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Enemie_Sprites
+  rotate: false
+  xy: 2, 2
+  size: 808, 128
+  orig: 808, 128
+  offset: 0, 0
+  index: -1
+Mario_Sprites
+  rotate: false
+  xy: 2, 132
+  size: 447, 687
+  orig: 447, 687
+  offset: 0, 0
+  index: -1
